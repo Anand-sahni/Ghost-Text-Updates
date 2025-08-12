@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>GhostText122</title>
+        <title>GhostText</title>
         <item>
             <title>1.2</title>
-            <pubDate>Tue, 12 Aug 2025 12:01:28 +0530</pubDate>
+            <pubDate>Tue, 12 Aug 2025 12:15:40 +0530</pubDate>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Anand-sahni/Ghost-Text-Updates/releases/download/prod/Ghost.Text.1.2.dmg" length="3274757" type="application/octet-stream"/>
+            <enclosure url="https://github.com/Anand-sahni/Ghost-Text-Updates/releases/download/prod/Ghost.Text.1.2.dmg" length="3274782" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
